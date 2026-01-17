@@ -7,7 +7,7 @@ There are multiple Java implementations that you can use. OpenJDK is the most po
 Update the Debian apt repositories, install OpenJDK 21, and check the installation using the following commands:
 ```
 sudo apt update
-sudo apt install fontconfig openjdk-21-jre
+sudo apt install fontconfig openjdk-17-jre
 java -version
 ```
 
